@@ -1,4 +1,4 @@
 # hello-world
-hi
-me llamo ingrid.
-tengo25 años megusta comer aprender cosas nuevas bailar  ir al cine viajar
+hola 
+me llamo Ingrid.
+tengo 25 años me gusta comer viajar bailar aprender nuevas cosas ir al cine.
